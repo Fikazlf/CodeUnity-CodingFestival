@@ -1,0 +1,5 @@
+Citra 1 1 0 
+Bunga 5 3 7
+Vera 6 2 5 
+Rizky 2 5 4 
+Sakha 4 7 3 
